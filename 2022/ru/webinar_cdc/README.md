@@ -7,7 +7,7 @@
 * [Ильназ Низаметдинов](https://www.linkedin.com/in/nilnaz)
 * [Тимофей Кулин](https://github.com/rekby)
 
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=BG6pPfQ0IHE)
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=BG6pPfQ0IHE)\
 **Мероприятие:** [вебинар](https://cloud.yandex.ru/events/672)
 
 Мы объясним, что такое CDC и какие задачи с помощью него можно решить сейчас и в перспективе.

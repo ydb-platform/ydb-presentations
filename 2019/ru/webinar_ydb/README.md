@@ -1,8 +1,8 @@
 # Опыт использования Yandex Database на примере продуктов Яндекса
 
-**Докладчик:** [Олег Бондарь](https://www.linkedin.com/in/olegbondar2000)
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=qWqU-R-X3Dc)
-**Слайды:** [presentation.pdf](presentation.pdf)
+**Докладчик:** [Олег Бондарь](https://www.linkedin.com/in/olegbondar2000)\
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=qWqU-R-X3Dc)\
+**Слайды:** [presentation.pdf](presentation.pdf)\
 **Мероприятие:** [вебинар](https://cloud.yandex.ru/events/23)
 
 На вебинаре мы сделали краткий обзор системы и рассмотрели:

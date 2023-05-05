@@ -1,8 +1,8 @@
 # YDB: распределенные запросы в облаках
 
-**Докладчик:** [Сергей Пучин](https://www.linkedin.com/in/sergei-puchin-9486b621)
-**Запись трансляции:** [YouTube](https://youtu.be/V95bBGB-89Y?t=15514)
-**Слайды:** [presentation.pdf](presentation.pdf)
+**Докладчик:** [Сергей Пучин](https://www.linkedin.com/in/sergei-puchin-9486b621)\
+**Запись трансляции:** [YouTube](https://youtu.be/V95bBGB-89Y?t=15514)\
+**Слайды:** [presentation.pdf](presentation.pdf)\
 **Мероприятие:** [BackendConf 2019](https://backendconf.ru/moscow-rit/2019/abstracts/5330)
 
 Мы поговорим про применяемую модель транзакций и уровни изоляции, особенности SQL-диалекта Yandex Query Language (YQL), параметризацию и подготовку запросов, многошаговые транзакции и механизм оптимистичных блокировок.

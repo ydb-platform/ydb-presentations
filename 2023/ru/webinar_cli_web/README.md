@@ -1,7 +1,7 @@
 # Используем YDB: Возможности встроенного веб-интерфейса и CLI
 
-**Докладчик:** [Антон Коваленко](https://www.linkedin.com/in/kovalad/)
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=jB8RBnA4Y-Y)
+**Докладчик:** [Антон Коваленко](https://www.linkedin.com/in/kovalad/)\
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=jB8RBnA4Y-Y)\
 **Мероприятие:** [вебинар](https://cloud.yandex.ru/events/774)
 
 На встрече мы рассказали и показали:

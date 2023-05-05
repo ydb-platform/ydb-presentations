@@ -6,7 +6,7 @@
 * [Михаил Бабич](https://www.linkedin.com/in/mikhail-babich-807700270/)
 * [Максим Горбунов](https://www.linkedin.com/in/maksim-gorbunov-20283a55/)
 
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=qzcB5OQaiYY)
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=qzcB5OQaiYY)\
 **Мероприятие:** [вебинар](https://cloud.yandex.ru/events/758)
 
 На встрече мы:

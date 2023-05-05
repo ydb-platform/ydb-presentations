@@ -6,7 +6,7 @@
 * [Александр Штейн](https://www.linkedin.com/in/shtein-alexander/) (Voximplant)
 * [Олег Бондарь](https://www.linkedin.com/in/olegbondar2000) (Yandex.Cloud)
 
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=mB0Wpn2473U)
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=mB0Wpn2473U)\
 **Мероприятие:** [вебинар](https://cloud.yandex.ru/events/298)
 
 - Интеграция Voximplant Kit с Yandex SpeechKit — сервисом распознавания и синтеза речи.

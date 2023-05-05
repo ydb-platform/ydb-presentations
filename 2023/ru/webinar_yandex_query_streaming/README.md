@@ -1,7 +1,7 @@
 # Анализ потоковых данных с помощью Yandex Query - интерактивного сервиса виртуализации данных в YDB
 
-**Докладчик:** [Алексей Дмитриев](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2-7914b535/)
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=PW7v57ELCfQ)
+**Докладчик:** [Алексей Дмитриев](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2-7914b535/)\
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=PW7v57ELCfQ)\
 **Мероприятие:** [вебинар](https://cloud.yandex.ru/events/722)
 
 

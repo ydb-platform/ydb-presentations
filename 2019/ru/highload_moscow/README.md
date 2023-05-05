@@ -1,8 +1,8 @@
 # Распределенные транзакции в YDB
 
-**Докладчик:** [Семён Чечеринда](https://www.linkedin.com/in/semyon-checherinda-788165a7)
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=8AR1u5OZIm8)
-**Слайды:** [presentation.pdf](presentation.pdf)
+**Докладчик:** [Семён Чечеринда](https://www.linkedin.com/in/semyon-checherinda-788165a7)\
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?v=8AR1u5OZIm8)\
+**Слайды:** [presentation.pdf](presentation.pdf)\
 **Мероприятие:** [Highload++ Moscow 2019](https://www.highload.ru/moscow/2019/abstracts/5324)
 
 Цель доклада — демонстрация применения детерминистических транзакций для обеспечения строгой консистентности распределенной системы.

@@ -1,8 +1,8 @@
 # YDB — Distributed SQL база данных Яндекса
 
-**Докладчик:** [Сергей Пучин](https://www.linkedin.com/in/sergei-puchin-9486b621)
-**Запись трансляции:** [YouTube](https://www.youtube.com/watch?t=3012&v=tzANIAbc99o)
-**Слайды:** [presentation.pdf](presentation.pdf)
+**Докладчик:** [Сергей Пучин](https://www.linkedin.com/in/sergei-puchin-9486b621)\
+**Запись трансляции:** [YouTube](https://www.youtube.com/watch?t=3012&v=tzANIAbc99o)\
+**Слайды:** [presentation.pdf](presentation.pdf)\
 **Мероприятие:** [YaTalks Екатеринбург 2019](https://ict2go.ru/events/31007/)
 
 Основные моменты, связанные с выполнением распределенных запросов в YDB:

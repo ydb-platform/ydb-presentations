@@ -1,7 +1,7 @@
 # Scalability and fault tolerance in YDB
 
-**Speaker:** [Andrey Fomichev](https://www.linkedin.com/in/andrey-fomichev)
-**Live stream recording:** [YouTube](https://www.youtube.com/watch?v=eYpyKXihGaY)
+**Speaker:** [Andrey Fomichev](https://www.linkedin.com/in/andrey-fomichev)\
+**Live stream recording:** [YouTube](https://www.youtube.com/watch?v=eYpyKXihGaY)\
 **Event:** [webinar](http://charap.co/reading-group-special-session-scalability-and-fault-tolerance-in-ydb/)
  
 In this talk, we will cover two layers of YDB – Tablet and BlobStorage layers that together provide fault tolerance, scalability, and user isolation.
