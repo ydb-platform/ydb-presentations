@@ -6,5 +6,6 @@ This repository is organized in chronological order, but you can also use these 
 
 * [Overview](overview.md)
 * [Use cases](use_cases.md)
+* [Practice](practice.md)
 * [Database internals](database_internals.md)
 * [Testing](testing.md)
