@@ -9,10 +9,6 @@
 * 2022 webinar distsys
 * all 2023 webinars
 
-## Missing recording
-
-* Belgrade lecture 2023
-
 ## Missing LinkedIn
 
 * 2019 Highload Siberia
