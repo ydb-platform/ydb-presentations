@@ -10,4 +10,4 @@ This repository is organized in chronological order, but you can also use these 
 * [Database internals](database_internals.md)
 * [Testing](testing.md)
 
-**Hint!** Press "Watch -> All activity" at the top right corner of this GitHub repository page to stay up-to-date on new YDB talks.
+**Tip!** Press "Watch -> All activity" at the top right corner of this GitHub repository page to stay up-to-date on new YDB talks.
