@@ -5,7 +5,7 @@
 * [Andrey Fomichev](https://www.linkedin.com/in/andrey-fomichev)
 * [Ilnaz Nizametdinov](https://www.linkedin.com/in/nilnaz)
 
-**Slides:** [presentation.pdf](presentaiton.pdf)\
+**Slides:** [presentation.pdf](presentation.pdf)\
 **Live stream recording:** [YouTube](https://www.youtube.com/watch?v=Ga2Eg2rbPPc&ab_channel=Hydra) (in Russian)\
 **Event:** [Hydra 2022](https://hydraconf.com/talks/d63511d6011a4b458b9c16be675f6897/)
  
