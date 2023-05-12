@@ -8,7 +8,3 @@
 * 2021 subbotnic
 * 2022 webinar distsys
 * all 2023 webinars
-
-## Missing LinkedIn
-
-* 2019 Highload Siberia
