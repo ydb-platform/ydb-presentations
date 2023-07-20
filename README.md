@@ -8,6 +8,7 @@ This repository is organized in chronological order, but you can also use these 
 * [Use cases](use_cases.md)
 * [Practice](practice.md)
 * [Database internals](database_internals.md)
+* [Releases](releases.md)
 * [Testing](testing.md)
 
 **Tip!** Press "Watch -> All activity" at the top right corner of this GitHub repository page to stay up-to-date on new YDB talks.
