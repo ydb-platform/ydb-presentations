@@ -8,3 +8,4 @@
 * [Distributed tracing with Jaeger and YDB by Alex Saltykov and Alex Shcherbakov on DevOpsConf 2021](2021/ru/devops_conf/README.md)
 * [YDB Serverless at Voximplant](2021/ru/webinar_voximplant/README.md)
 * [Million RPS at Yandex Metrika](2022/ru/highload_foundation_million_rps_metrika/README.md)
+* [Counting video and stream views at Dzen](2022/ru/highload_foundation_dzen/README.md)
