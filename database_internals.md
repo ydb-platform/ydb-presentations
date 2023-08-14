@@ -15,3 +15,4 @@
 * [YDB fault tolerance by Vladislav Kuznetsovon Highload++ Siberia 2019](2019/ru/highload_siberia/README.md)
 * [YDB multitenancy by Andrey Fomichev on Ya Subbotnic Infrastructure 2021](2021/ru/ya_subbotnic_infrastructure/README.md)
 * [YDB MVCC by Andrey Fomichev on Highload Foundation 2022](2022/ru/highload_foundation_mvcc/README.md)
+* [Evolution of YDB actor system by Aleksey Stankevichus on Highload Foundation 2022](2022/ru/highload_foundation_actor_system/README.md)
