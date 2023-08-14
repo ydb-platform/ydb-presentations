@@ -12,3 +12,4 @@
 * [April 2020 YDB news webinar](2020/ru/webinar_ydb/README.md)
 * [YDB Serverless launch in Yandex Cloud by Andrey Fomichev on Yandex.Scale 2020](2020/ru/yandex_scale_serverless/README.md)
 * [YDB overview by Oleg Bondar on Digital Infrastructure 2022](2022/ru/open_systems/README.md)
+* [Q&A about going open-source and further plans on Highload Foundation 2022](2022/ru/highload_foundation_qa/README.md)
