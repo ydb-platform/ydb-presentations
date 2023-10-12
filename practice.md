@@ -1,5 +1,9 @@
 # YDB Practical examples
 
+## In English
+
+* [Kubernetes migration experience by Egor Tarasov](2023/en/cloudexpo_kubernetes/README.md)
+
 ## In Russian
 
 * [YDB Change Data Capture webinar](2022/ru/webinar_cdc/README.md)
