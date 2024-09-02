@@ -2,7 +2,7 @@
 
 **Speaker:** [Alexander Zevaykin](https://www.linkedin.com/in/alexander-zevaykin-6bb8162bb)\
 **Slides:** [presentation.pdf](presentation.pdf)\
-**Video:** [TDB]()\
+**Video:** [YouTube](https://www.youtube.com/watch?v=bdj_JrRPju0&list=PLLrf_044z4JoGkcJMLFrdA6isWSn8MZEq&index=34)\
 **Event:** [ИТ-пикник 2024](https://it-picnic.ru/lectorium)
 
 Рассмотрим базовые проблемы ненадежной передачи данных и способы борьбы с ними: повторы и дедупликацию. 
