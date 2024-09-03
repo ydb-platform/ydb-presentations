@@ -1,8 +1,8 @@
 # Шардированный не значит распределенный: что важно знать, когда PostgreSQL мало
 
 **Докладчики:** [Евгений Иванов](https://www.linkedin.com/in/eivanov89/) и [Олег Бондарь](https://www.linkedin.com/in/olegbondar2000)\
-**Эксперт:** [Евгений Ефимкин](https://www.linkedin.com/in/evgeny-efimkin-4061a893/)
-**Слайды:** TBD\
+**Эксперт:** [Евгений Ефимкин](https://www.linkedin.com/in/evgeny-efimkin-4061a893/)\
+**Слайды:** [presentation.pdf](presentation.pdf)\
 **Видеозапись:** TBD\
 **Мероприятие:** [SmartData 2024](https://smartdataconf.ru/talks/ebf00f5486be4a199fc6a2443e8ef076/)
 
