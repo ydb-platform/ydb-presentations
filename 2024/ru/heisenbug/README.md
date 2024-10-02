@@ -2,6 +2,7 @@
 
 **Докладчик:** [Виталий Гриднев](https://www.linkedin.com/in/gridnevvvit)\
 **Слайды:** [presentation.pdf](presentation.pdf)\
+**Видеозапись:** [Youtube](https://www.youtube.com/watch?v=UDhfjeJsv-o)\
 **Мероприятие:** [Heisenbug 2024](https://heisenbug.ru/archive/2024%20Spring/talks/b238d80a456f4d338196ce59de38d461/)
 
 Подробно расскажу о тестировании YDB. Начнем с общего понимания того, как устроено тестирование YDB, какие проблемы возникают при тестировании распределенных компонентов базы данных и почему в YDB необходимо хаос-тестирование.
