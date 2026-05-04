@@ -2,7 +2,7 @@
 
 **Докладчик:** [Евгений Иванов](https://www.linkedin.com/in/eivanov89/) \
 **Эксперт:** [Александр Крюков](https://www.linkedin.com/in/kruall/) \
-**Слайды:** TBA \
+**Слайды:** [presentation.pdf](presentation.pdf) \
 **Видеозапись:** TBA \
 **Мероприятие:** [C++ Russia 2026](https://cppconf.ru/archive/2025/talks/83fad02df5774a449f534f82a05dd788/)
 
@@ -25,4 +25,4 @@
 
 Микробенчмарк coroutines vs. threads: [код](https://github.com/ydb-platform/tpcc-postgres-new/tree/main/src/coroutines_vs_threads). Запускать следует, не забывая о NUMA.
 
-[Демо](https://github.com/eivanov89/toys/tree/master/cpp/hello_coroutines) работы корутин, где есть FIFO scheduler, timer thread. С этого началась наша реализация TPC-C. Можно поиграть, поразбираться и поискать возможные баги.
+[Демо](https://github.com/eivanov89/toys/tree/master/cpp/hello_coroutines) работы корутин, где есть FIFO scheduler, timer thread. С этого началась наша реализация TPC-C. Можно поиграть, поразбираться и поискать возможные баги. Версия далека от оптимальной.
