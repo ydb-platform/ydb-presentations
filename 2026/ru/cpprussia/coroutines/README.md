@@ -3,7 +3,7 @@
 **Докладчик:** [Евгений Иванов](https://www.linkedin.com/in/eivanov89/) \
 **Эксперт:** [Александр Крюков](https://www.linkedin.com/in/kruall/) \
 **Слайды:** [presentation.pdf](presentation.pdf) \
-**Видеозапись:** TBA \
+**Видеозапись:** [YouTube](https://youtu.be/_wan8HZn5d0?si=_tiEa19wmvkEOjlN) \
 **Мероприятие:** [C++ Russia 2026](https://cppconf.ru/archive/2025/talks/83fad02df5774a449f534f82a05dd788/)
 
 ## Материалы
